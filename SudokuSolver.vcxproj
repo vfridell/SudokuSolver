@@ -163,7 +163,6 @@
     <CopyFileToFolders Include="hard_sudokusolver.pzl">
       <FileType>Document</FileType>
     </CopyFileToFolders>
-    <None Include="makefile" />
     <CopyFileToFolders Include="matt4star.pzl">
       <FileType>Document</FileType>
     </CopyFileToFolders>
